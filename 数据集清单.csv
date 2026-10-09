@@ -1,0 +1,6 @@
+﻿对应方向,文件,样本数,特征数,目标或参考字段,说明
+A1 回归,A类题/A1_regression_diabetes.csv,442,10,target,真实基准数据
+A2 分类,A类题/A2_classification_breast_cancer.csv,569,30,target,真实基准数据
+A3 聚类,A类题/A3_clustering_wine.csv,178,13,reference_class,参考标签不得参与聚类
+B1 分类,B类题/B1_classification_digits.csv,1797,64,target,8×8手写数字像素
+B2 回归,B类题/B2_regression_friedman1.csv,1500,10,target,固定随机种子生成的非线性模拟数据

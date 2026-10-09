@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local environments and IDE state
+.venv/
+.idea/
+.vscode/
+
+# Personal deliverables and locally generated A2 artifacts
+A类题_A2_乳腺癌二分类/results/
+A类题_A2_乳腺癌二分类/evidence/
+A类题_A2_乳腺癌二分类/报告质量检查/
+A类题_A2_乳腺癌二分类/A类题_*_实验报告.docx
+
+# Large C-category raw datasets
+C类题/C类题/
+C类题/**/*.zip
+C类题/**/*.tar.gz
+C类题/**/*.tar
